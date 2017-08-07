@@ -1,0 +1,6 @@
+framework module LXDDataServer {
+  umbrella header "LXDDataServer-umbrella.h"
+
+  export *
+  module * { export * }
+}
