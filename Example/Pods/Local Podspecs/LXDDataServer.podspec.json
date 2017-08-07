@@ -1,18 +1,18 @@
 {
   "name": "LXDDataServer",
   "version": "0.1.0",
-  "summary": "A short description of LXDDataServer.",
+  "summary": "抽象数据服务层",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/linxinda/LXDDataServer",
+  "homepage": "git@github.com:sindrilin/LXDDataServer.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "linxinda": "linxinda@didichuxing.com"
+    "linxinda": "codersindri@gmail.com"
   },
   "source": {
-    "git": "https://github.com/linxinda/LXDDataServer.git",
+    "git": "git@github.com:sindrilin/LXDDataServer.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -27,7 +27,7 @@ SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Expecta+Snapshots: dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  LXDDataServer: bc6fc0b12d3e155d667ab636393023e237e1ec1d
+  LXDDataServer: 4594de91469999b0b9252726cb5fd3a7a54810fe
   Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
 
 PODFILE CHECKSUM: 8b3683fa50583d702a3c440828929e415e2165fa
