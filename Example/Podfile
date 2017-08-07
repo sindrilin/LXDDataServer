@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'LXDDataServer_Example' do
+  pod 'LXDDataServer', :path => '../'
+
+  target 'LXDDataServer_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end
