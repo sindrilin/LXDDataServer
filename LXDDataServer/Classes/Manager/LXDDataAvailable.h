@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-typedef void(^DataFetchHandle)(NSArray *datas, _Nullable NSError *error);
+typedef void(^DataFetchHandle)(NSArray *datas,  NSError * _Nullable error);
 
 /*!
  *  @protocol   LXDDataAvailable
