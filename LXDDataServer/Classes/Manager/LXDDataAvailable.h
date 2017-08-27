@@ -93,6 +93,12 @@ typedef void(^DataFetchHandle)(NSArray *datas,  NSError * _Nullable error);
 - (void)dropFirstData;
 
 /*!
+ *  @method dropAllData
+ *  清除所有数据
+ */
+- (void)dropAllData;
+
+/*!
  *  @method deleteDataInIndexSet:
  *  删除indexSet内所有下标位置的数据
  */

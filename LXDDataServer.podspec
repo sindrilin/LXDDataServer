@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LXDDataServer'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = '抽象数据服务层'
 
 # This description is used to generate tags and improve search results.
